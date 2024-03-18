@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rutvij Sathe</h1>
 
-<h3 align="center">A passionate frontend developer from I'm a passionate developer based in Toronto, ON, currently working from home. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.India</h3>
+<h3 align="center">I'm a passionate developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.</h3>
 
 - 🔭 I’m currently working at **Viral Nation**
 
