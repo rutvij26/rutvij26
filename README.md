@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rut26sathe@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
