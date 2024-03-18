@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working at **Viral Nation**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently preparing for **AWS Certified Solution Architect Exam**
 
-- 👨‍💻 All of my projects are available at [https://www.rutvijsathe.dev/#projects](https://www.rutvijsathe.dev/#projects)
+- 👨‍💻 All of my projects are available on [my Portfolio](https://www.rutvijsathe.dev/)
 
 - 💬 Ask me about **Typescript, NodeJS & React**
 
 - 📫 How to reach me **rut26sathe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
