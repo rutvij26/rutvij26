@@ -8,18 +8,6 @@
  I'm a passionate developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.
 </h3>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rutvij26&show_icons=true&locale=en" alt="rutvij26" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rutvij26&show_icons=true&locale=en&layout=compact" alt="rutvij26" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvij26&" alt="rutvij26" />
-</p>
-
 ### 🔭 I’m currently working at **Viral Nation**
 
 ### 🌱 I’m currently preparing for **AWS Certified Solution Architect Exam**
