@@ -23,5 +23,5 @@ I'm a passionate developer based in Toronto, ON. My journey in the tech world ha
 
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/rutvijs) | [Stack Overflow](https://stackoverflow.com/users/20342347) | [LeetCode](https://www.leetcode.com/rut26sathe)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662594b2e699ec2b9b3e117a?variant=dark)](https://roadmap.sh)
+<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662594b2e699ec2b9b3e117a?variant=dark)](https://roadmap.sh) -->
 
