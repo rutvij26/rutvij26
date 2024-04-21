@@ -1,3 +1,4 @@
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=rutvijs&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/rutvijs)
 ![Profile views](https://komarev.com/ghpvc/?username=rutvij26&label=Profile%20views&color=4eb4f4&style=flat)
 
 # Hi 👋, I'm Rutvij Sathe
@@ -8,11 +9,7 @@ I'm a passionate developer based in Toronto, ON. My journey in the tech world ha
 
 #### 🌱 I’m currently preparing for **AWS Certified Solution Architect Exam**
 
-#### 👨‍💻 All of my projects are available on [my Portfolio](https://www.rutvijsathe.dev/)
-
 #### 💬 Ask me about **Typescript, NodeJS & React**
-
-#### 📫 How to reach me **rut26sathe@gmail.com**
 
 #### 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
 
@@ -24,8 +21,7 @@ I'm a passionate developer based in Toronto, ON. My journey in the tech world ha
 
 #### Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/rutvijs)
-- [Stack Overflow](https://stackoverflow.com/users/20342347)
-- [LeetCode](https://www.leetcode.com/rut26sathe)
+[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/rutvijs) | [Stack Overflow](https://stackoverflow.com/users/20342347) | [LeetCode](https://www.leetcode.com/rut26sathe)
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=rutvijs&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/rutvijs)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662594b2e699ec2b9b3e117a?variant=dark&roadmaps=backend%2Ctypescript%2Cnodejs%2Cblockchain)](https://roadmap.sh)
+
