@@ -1,6 +1,5 @@
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=rutvijs&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/rutvijs)
 ![Profile views](https://komarev.com/ghpvc/?username=rutvij26&label=Profile%20views&color=4eb4f4&style=flat)
-
 # Hi 👋, I'm Rutvij Sathe
 
 I'm a passionate developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.
@@ -23,5 +22,6 @@ I'm a passionate developer based in Toronto, ON. My journey in the tech world ha
 
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/rutvijs) | [Stack Overflow](https://stackoverflow.com/users/20342347) | [LeetCode](https://www.leetcode.com/rut26sathe)
 
-<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662594b2e699ec2b9b3e117a?variant=dark)](https://roadmap.sh) -->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662594b2e699ec2b9b3e117a?variant=dark)](https://roadmap.sh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvij26)](https://github.com/anuraghazra/github-readme-stats)
 
