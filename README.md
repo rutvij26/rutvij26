@@ -4,11 +4,11 @@
 
 I'm a passionate developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.
 
-#### 🔭 Working at **Viral Nation**
+#### 🔭 Actively Looking for a job
 
 #### 🌱 Preparing for **AWS Certified Solution Architect Exam**
 
-#### 💬 Ask me about **Typescript, NodeJS & React**
+#### 💬 Ask me about **Backend Development**
 
 #### 📄 [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
 
