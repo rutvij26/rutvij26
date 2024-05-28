@@ -10,8 +10,6 @@ I'm a passionate developer based in Toronto, ON. My journey in the tech world ha
 
 #### 💬 Ask me about **Backend Development**
 
-#### 📄 [Resume](https://drive.google.com/file/d/1D5AUcv3Iq4BLGv8Sqwa61Dp9w6A7o89-/view)
-
 #### Languages and Tools:
 
 | Backend | Frontend | Cloud |
