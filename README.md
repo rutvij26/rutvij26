@@ -4,7 +4,7 @@
 
 I'm a passionate developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.
 
-#### 🔭 Actively Looking for a job
+#### 🔭 Actively Looking for a software engineering opportunity
 
 #### 🌱 Preparing for **AWS Certified Solution Architect Exam**
 
